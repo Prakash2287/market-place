@@ -1,0 +1,6 @@
+The cn function helps us to combine classnames together that are both static and dynamic types
+See the working of slots in react
+By default in next, the components are rendered server side, so in order to use client side things like state we need to use the part "use client" at the top to allow using client side things
+We are using here shadcn@latest for all the sheet components 
+We are using react-hook-form for form validation and we are using zodresolver for schema validation as well
+The providers from tnpc wraps the entire next js file so we are able to access all the routes that come to express in Next js
